@@ -1,4 +1,16 @@
-![21 Savage](public/21savage.jpg)
+# Savage Demo
+ Let's celebrate DaBaby and all his greatness. Leave him a message and see what other fans are thinking
+ 
+ 
+**Link toProject:** 
+
+
+<img src= "moodTracker.jpg" width =90%>
+
+
+## How This Project was Created
+
+JavaScript, Node.js, and MongoDB
 
 ## Installation
 
@@ -7,5 +19,7 @@
 
 ## Usage
 
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+1. run `node server.js`
+2. Navigate to `localhost:8080`
+
+
